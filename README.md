@@ -1,2 +1,2 @@
 # something_makes_sense
-She said out loud
+This is my first Beginner file.  Should be interesting.
